@@ -10,7 +10,7 @@
 
 ## Code
 
-[Click Me]()
+[Click Me](https://github.com/BiliPrk/H5FCI/blob/main/index.html)
 
 ``` html
 <!DOCTYPE html>
